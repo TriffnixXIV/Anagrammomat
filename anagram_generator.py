@@ -230,21 +230,6 @@ if __name__ == "__main__":
     print()
     print(gen.generate_anagram())
 
-    # gen.set_word_list(["Magnus", "Noah", "Chad", "Joe", "Meta", "Lia"])
-    # for _ in range(3):
-    #     print(gen.generate_anagram())
-
-    # gen.set_word_list(["Magnus", "Noah", "Chad", "Merlin", "Meta", "Lia"])
-    # print()
-    # for _ in range(3):
-    #     print(gen.generate_anagram())
-
-    # gen.set_word_list(["Dominik", "Ansgar"])
-    # print()
-    # for _ in range(3):
-    #     print(gen.generate_anagram())
-
-    # gen.set_word_list(["Vanselow", "Palis", "Solterbek", "Wagner", "Till", "Renner"])
-    # print()
+    # gen.set_word_list(["Rock", "Stone", "Ice", "Fire", "Earth", "Air"])
     # for _ in range(3):
     #     print(gen.generate_anagram())
